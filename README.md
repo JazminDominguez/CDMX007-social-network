@@ -494,14 +494,14 @@ Otras:
 
 ### General
 
-* [ ] Producto final sigue los lineamientos del diseño.
+* [ x] Producto final sigue los lineamientos del diseño.
 
 ### `README.md`
 
-* [ ] Definición del producto
-* [ ] Resumen de entrevistas con usuarios.
-* [ ] Link/screenshots prototipo de baja fidelidad.
-* [ ] Conclusiones de pruebas con el producto en HTML.
+* [ x] Definición del producto
+* [ x] Resumen de entrevistas con usuarios.
+* [ x] Link/screenshots prototipo de baja fidelidad.
+* [ x] Conclusiones de pruebas con el producto en HTML.
 
 ### Pruebas / tests
 
@@ -530,7 +530,7 @@ Otras:
 * [ x] Permite eliminar publicaciones.
 * [ x] Pide confirmación antes de borrar publicación.
 * [ x] Permite editar publicación en el mismo lugar (in place).
-* [ ] Permite filtrar publicaciones por público/privado.
+* [ x] Permite filtrar publicaciones por público/privado.
 * [ x] Permite marcar publicaciones como _gustados_ (like, corazón, estrella,
   etc...).
 * [ x] Permite ver cuántas marcas, likes, estrellas, corazones o lo que se haya
